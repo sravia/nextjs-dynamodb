@@ -1,0 +1,16 @@
+.env
+.next
+node_modules
+.serverless
+.idea/*
+dist
+*.zip
+.DS_Store
+config.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+.vscode
+
